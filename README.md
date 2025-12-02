@@ -1,4 +1,4 @@
-# creating-histogram-and-bar-chart.
+# histogram-and-bar-chart
 
 1. Project Overview
 
